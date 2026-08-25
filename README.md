@@ -1,6 +1,6 @@
 # Hi there, I'm Sultan Reja! 👋
 
-### 🚀 Interns @ NTPC Limited Farakka | MCA | Web Developer
+### 🚀 Interns @ NTPC Limited Farakka | BCA | Web Developer
 
 I am a passionate Developer focused on **Workplace Automation** and **Full Stack Development**. Currently, I am leveraging technology at **NTPC Ltd Farakka.** to transform manual workflows into intelligent, automated systems.
 
