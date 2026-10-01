@@ -22,7 +22,7 @@ I am a passionate Developer focused on **Workplace Automation** and **Full Stack
 ---
 
 ### 📬 Connect with me:
-- [Portfolio]() 🌐
+- [Portfolio](https://sultanreja.github.io/SultanReja/) 🌐
 - [LinkedIn]() 💼
 - [Email](mailto:sultanreja654@gmail.com) 📧
 
